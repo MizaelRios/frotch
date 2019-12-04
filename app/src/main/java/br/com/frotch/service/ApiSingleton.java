@@ -20,7 +20,7 @@ public class ApiSingleton {
 
     private ApiSingleton() {
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://192.168.15.4:8080")
+                .baseUrl("http://0.0.0.0:8080")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
