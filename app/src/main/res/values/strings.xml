@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Frotch</string>
+
+    <string name="logo">Frotch</string>
+    <string name="txt_username">E-mail</string>
+    <string name="txt_senha">Senha</string>
+    <string name="txt_entrar">Entrar</string>
+    <string name="txt_recuperar_senha">Esqueceu sua senha?</string>
+    <string name="txt_logo_rodape">Gerenciamento e Controle para frota de veículos</string>
+    <string name="txt_endereco_web">www.frotch.com.br</string>
+    <string name="txt_btn_listarVeiculos">Listar Veículos</string>
+    <string name="txt_btn_calendario">Calendário</string>
+    <string name="txt_btn_info">Info</string>
+    <string name="txt_btn_duvidas">Dúvidas?</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="menu_listar">Listar Veículos</string>
+    <string name="menu_calendario">Calendário</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_duvidas">Dúvidas</string>
+
+    <string name="txt_telefone">0000-0000</string>
+    <string name="txt_email">frotch@frotch.com</string>
+    <string name="txt_site">www.frotch.com.br</string>
+    <string name="txt_facebook">facebook.com/frotch</string>
+</resources>

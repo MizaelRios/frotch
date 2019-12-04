@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#020202</color>
+    <color name="colorAccent">#202020</color>
+
+    <color name="colorBtn">#5e2ced</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_home">#5e2ced</color>
+    <color name="btn_home">#202020</color>
+
+    <color name="background_home">#131313</color>
+    <color name="btn_normal">@color/colorBtn</color>
+    <color name="btn_pressionado">#72A185E9</color>
+    <color name="btn_focus">#665E2CED</color>
+
+    <color name="text_btn_duvida">#FFFFFF</color>
+
+    <color name="text_btn_home">#FFFFFF</color>
+</resources>
